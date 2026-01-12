@@ -19,7 +19,7 @@ NODE_ENV=development
 
 # Database - Update with your MongoDB connection string
 MONGODB_URI=mongodb://localhost:27017/gigflow
-# For MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/gigflow
+
 
 # Authentication - Generate a strong secret key
 JWT_SECRET=your_super_secret_jwt_key_here_make_it_long_and_random
